@@ -1,0 +1,13 @@
+C:\Users\moklet\source\repos\TryLKSTime\bin\Debug\TryLKSTime.exe.config
+C:\Users\moklet\source\repos\TryLKSTime\bin\Debug\TryLKSTime.exe
+C:\Users\moklet\source\repos\TryLKSTime\bin\Debug\TryLKSTime.pdb
+C:\Users\moklet\source\repos\TryLKSTime\bin\Debug\TryLKSTime.xml
+C:\Users\moklet\source\repos\TryLKSTime\obj\Debug\TryLKSTime.vbproj.AssemblyReference.cache
+C:\Users\moklet\source\repos\TryLKSTime\obj\Debug\TryLKSTime.Form1.resources
+C:\Users\moklet\source\repos\TryLKSTime\obj\Debug\TryLKSTime.Resources.resources
+C:\Users\moklet\source\repos\TryLKSTime\obj\Debug\TryLKSTime.vbproj.GenerateResource.cache
+C:\Users\moklet\source\repos\TryLKSTime\obj\Debug\TryLKSTime.vbproj.CoreCompileInputs.cache
+C:\Users\moklet\source\repos\TryLKSTime\obj\Debug\TryLKSTime.exe
+C:\Users\moklet\source\repos\TryLKSTime\obj\Debug\TryLKSTime.xml
+C:\Users\moklet\source\repos\TryLKSTime\obj\Debug\TryLKSTime.pdb
+C:\Users\moklet\source\repos\TryLKSTime\obj\Debug\TryLKSTime.Home.resources
