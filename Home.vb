@@ -1,4 +1,5 @@
 ﻿Public Class Home
+
     Dim home As Home
     Dim labtob As String
     Dim qty As Integer
@@ -44,7 +45,7 @@
             tabelLaporan.Rows.Add(New String() {i + 1, laptopun(i), hargalun(i), jumlahun(i), totalun(i)})
         Next
 
-        MessageBox.Show("Nota Pembelian: " + vbNewLine + "Laptop: " + labtob + vbNewLine + "Harga Satuan: Rp" + price.ToString + vbNewLine + "Qty: " + qty.ToString + vbNewLine + "Total Harga: Rp" + total.ToString)
+        MessageBox.Show("Nota Pembelian: " + vbNewLine + "Laptop: " + labtob + vbNewLine + "Harga Satuan: Rp" + price(index).ToString + vbNewLine + "Qty: " + qty.ToString + vbNewLine + "Total Harga: Rp" + total.ToString)
 
         comboLaptop.Text = ""
         tbHarga.Clear()
